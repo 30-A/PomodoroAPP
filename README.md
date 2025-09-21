@@ -1,8 +1,6 @@
-## 🍅 Pomodoro Timer
+# 🍅 PomodoroAPP
 
-A simple, customizable Pomodoro timer built with Python and tkinter. Features motivational quotes, session statistics and a clean, minimal interface.
-
-Based on the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) - a time management method developed by Francesco Cirillo.
+A simple, customizable Pomodoro timer built with Python and tkinter. Features motivational quotes, session statistics and a clean, minimal interface. Based on the time management method: [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 #### Features
 
@@ -57,4 +55,4 @@ Based on the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Techniq
 
 ---
 
-**Made by Mohamed Amine Aouini**
+Made by Mohamed Amine Aouini
